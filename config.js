@@ -17,7 +17,7 @@ global.gopay = ''
 //『 Info Bot 』//
 global.namebot = 'REX-MD'
 global.gc = 'https://chat.whatsapp.com/DojCFswvX2nGMtK2vCrjOz'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://youtube.com/channel/UCX6GursvJyxnoOx4rF2tDRQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //『 Tampilan Dan Lainnya 』//
